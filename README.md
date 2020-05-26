@@ -1,3 +1,3 @@
 # symfony-prototype
 
-Testing Symfony Framework
+Testing Symfony Framework for E-Bankng App
